@@ -265,6 +265,17 @@ body {
   margin: 10px auto;
 }
 
+.skills .col-md-auto {
+  display: inline-block;
+  background-color: #535366;
+  color: #ffffff;
+  padding: 10px 20px;
+  margin: 8px;
+  border-radius: 25px;
+  text-align: center;
+  /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); */
+}
+
 .collapse {
   padding: 15px;
 }
